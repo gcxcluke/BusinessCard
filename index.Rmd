@@ -17,21 +17,27 @@ require(rvest)
 require(XML2)
 
 ```
+## Important Links
 
+1. [Recruit Questionnaire](https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MTAxOTc=-LNtDtdUuyu0=&ptype=recruit)
+2.  [Schedule a Visit](http://www.georgetowncollege.edu/admissions/visit)
+3.  [Apply to Georgetown College](https://admissions.georgetowncollege.edu/apply/)
 
 
 ## Coach Information
 
+### Head Coach
 ![](1.png)
 
-## Important Links
+### Assistant Coaches
 
-- [Schedule a Visit](gogc.me/visit)
-- [Apply to Georgetown College](gogc.me/apply)
+#### Sprints, Jumps, Throws
+![](4.png)\
+\
+![](5.png)
 
 
-## Recruit Questionaire
+#### Cross Country and Distance
+![](3.png)
 
-[Click here if questionaire does not appear below!](https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MTAxOTc=-LNtDtdUuyu0=&ptype=recruit)
 
-<iframe style='height: 100vh' src='https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MTAxOTc=-LNtDtdUuyu0=&ptype=recruit' width='100%' height='100%'></iframe>
