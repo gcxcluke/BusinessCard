@@ -1,0 +1,37 @@
+---
+title: "Georgetown College Cross Country and Track & Field"
+author: ""
+date: ""
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    css: style.css
+---
+
+```{r include=FALSE}
+require(knitr)
+require(mosaic)
+require(DT)
+require(rvest)
+require(XML2)
+
+```
+
+
+
+##Coach Information
+
+![](1.png)
+
+## Important Links
+
+- [Schedule a Visit](gogc.me/visit)
+- [Apply to Georgetown College](gogc.me/apply)
+
+
+## Recruit Questionaire
+
+[Click here if questionaire does not appear below!](https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MTAxOTc=-LNtDtdUuyu0=&ptype=recruit)
+
+<iframe style='height: 100vh' src='https://www.frontrush.com/FR_Web_App/Player/PlayerSubmit.aspx?sid=MTAxOTc=-LNtDtdUuyu0=&ptype=recruit' width='100%' height='100%'></iframe>
