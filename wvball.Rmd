@@ -1,0 +1,35 @@
+---
+title: "Georgetown College Women's Volleyball"
+author: ""
+date: ""
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    css: style.css
+---
+
+```{r include=FALSE}
+require(knitr)
+require(mosaic)
+require(DT)
+require(rvest)
+require(XML2)
+
+```
+## Important Links
+
+1.  [Recruit Questionnaire](https://www.georgetowncollegeathletics.com/recruitingFR/16.php)
+2.  [Schedule a Visit](http://www.georgetowncollege.edu/admissions/visit)
+3.  [Apply to Georgetown College](https://admissions.georgetowncollege.edu/apply/)
+
+
+## Coach Information
+
+### Head Coach
+![](pace.png)
+
+### Assistant Coaches
+
+Coming Soon
+
